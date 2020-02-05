@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My favourite things!</title>
+    <title>My favorite things!</title>
   </head>
   <body>
-    <h1>My Favorite things webpage</h1>
+    <h1>My Favorite things Webpage</h1>
     <h2>Written by Essy Mwangi</h2>
-
+    
     <p>Hello, my people!</p>
-    <p>Get to know my favorite things!</p>
+    <p>Welcome to my favorite things webpage!</p>
 
-    <p>Here is a list of my favs:</p>
+    <p>Here are some things I'm going to learn about me:</p>
     <ul>
       <li>Korean drama</li>
       <li>Alternative Music</li>
@@ -19,3 +19,5 @@
     </ul>
   </body>
 </html>
+
+
